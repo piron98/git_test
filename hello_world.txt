@@ -1,0 +1,3 @@
+Hello world
+First text file in Odin Project
+Long road ahead...
